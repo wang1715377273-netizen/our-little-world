@@ -1,0 +1,17 @@
+{
+  "name": "Our Little World",
+  "short_name": "Little World",
+  "description": "A little world for us.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbf8f5",
+  "theme_color": "#b98aa1",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
